@@ -1,4 +1,4 @@
-# Exercise 1: ggplot2 basics
+# MODULE 13 Exercise 1: ggplot2 basics
 
 # Install and load `ggplot2`
 # You will also want to load `dplyr`
